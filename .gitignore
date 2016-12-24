@@ -1,4 +1,5 @@
-/исх2
+﻿/исх2
 ИТ исходно, 3-38 тем.txt
 ИТ темы.txt
-*.sublime-*
+*.sublime-project
+*.sublime-workspace

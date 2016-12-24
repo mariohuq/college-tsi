@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"jet",
+				"jet-print-unit"
+			],
+			[
 				"специ",
 				"специальной"
 			],
@@ -510,50 +514,17 @@
 			[
 				"b",
 				"boolean"
-			],
-			[
-				"f",
-				"function\tdeclaration"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "Конспект.mdown",
+			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 42593,
+				"buffer_size": 45980,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "Копир\nПример 1. Разбиение линий на точки\nПример 2. Разница в разрешениях сканера\nОбобщенная схема сканера\nОбобщенная конструкция планшетного сканера\nБарабанный сканер\nЛистопротяжный сканер\nСканер и ЧБ\nСканер, ЧБ и АЦП\nСканер и ЧБ-полутон I\nСканер и ЧБ-полутон II\nRGB круг\nПример дисперсии\nСканер и цвет I-III\nОбобщенная конструкция камеры\nФокус линзы\nНормальное фокусное расстояние\nФотоматрица 1/1.8''\nКадр на пленке\nВиды ф.р.\nЗависимость размеров от ф.р.\nГРИП I\nГРИП II\nГРИП III\nИзменение апертуры и четкость\nРяд диафрагменных чисел\nДиафрагма и световой поток\nОбобщенная конструкция лазерного принтера\nПечатающий блок лазерного принтера\nСмазанная точка у лазерного принтера\nLED-принтер\nCMYK-модель\nП.-циклический способ\nПараллельно-п. способ I-II\nВыброс чернил\nКапельно-пузырьковый\nПьезоэлектрический\nПечатающий узел струйного принтера\nАвтономная чернильница\nНеавтономная чернильница\nОбобщенная конструкция струйного принтера\nПодключение СНПЧ к принтеру\nСтруктура фотобумаги\nТермосублимационный принтер\nТермопринтер\nОбобщенная конструкция матричного принтера\nФормирование точки у матричного принтера\nРизограф. блоки\nБлок-схема ризографии\nОбобщенная структура офсетного принтера\nОфсетная печатная форма",
-			"settings":
-			{
-				"buffer_size": 1202,
-				"line_ending": "Windows",
-				"name": "Копир"
-			}
-		},
-		{
-			"contents": "![Копир][1]\n![Пример 1. Разбиение линий на точки][2]\n![Пример 2. Разница в разрешениях сканера][3]\n![Обобщенная схема сканера][4]\n![Обобщенная конструкция планшетного сканера][5]\n![Барабанный сканер][]\n![Листопротяжный сканер][]\n![Сканер и ЧБ][]\n![Сканер, ЧБ и АЦП][]\n![Сканер и ЧБ-полутон I][]\n![Сканер и ЧБ-полутон II][]\n![RGB круг][]\n![Пример дисперсии][]\n![Сканер и цвет I-III][]\n![Обобщенная конструкция камеры][]\n![Фокус линзы][]\n![Нормальное фокусное расстояние][]\n![Фотоматрица 1/1.8''][]\n![Кадр на пленке][]\n![Виды ф.р.][]\n![Зависимость размеров от ф.р.][]\n![ГРИП I][]\n![ГРИП II][]\n![ГРИП III][]\n![Изменение апертуры и четкость][]\n![Ряд диафрагменных чисел][]\n![Диафрагма и световой поток][]\n![Обобщенная конструкция лазерного принтера][]\n![Печатающий блок лазерного принтера][]\n![Смазанная точка у лазерного принтера][]\n![LED-принтер][]\n![CMYK-модель][]\n![П.-циклический способ][]\n![Параллельно-п. способ I-II][]\n![Выброс чернил][]\n![Капельно-пузырьковый][]\n![Пьезоэлектрический][]\n![Печатающий узел струйного принтера][]\n![Автономная чернильница][]\n![Неавтономная чернильница][]\n![][]\n![][]",
-			"settings":
-			{
-				"buffer_size": 1101,
-				"line_ending": "Windows",
-				"name": "![Копир][1]"
-			}
-		},
-		{
-			"contents": "Список иллюстраций\n\n[1]: /images/2\t\"Устройство аналогового копира\"\n[2]: /images/2,3 \"Разбиение линий на точки \"\n[3]: /images/ \"Разрешение сканера dpi\" \n[4]: /images/4 \"Обобщенная структурная схема сканера\"\n[5]: /images/5 \"Пример обобщенной конструкции планшетного сканера\"\n[6]: /images/6 \"Пример конструкции барабанного сканера\"\n[7]: /images/7 \"Пример конструкции листопротяжного сканера\"\n[8]: /images/9 \"1. Обработка сканером ЧБ изображений\"\n[9]: /images/8 \"2. АЦП \"\n[10]: /images/10-11 \"3. ЧБ-полутон\"\n[11]: /images/12 \"4. Цветное изображение\"\n[12]: /images/13 \"I Цвета\"\n[13]: /images/14 \"II АЦП\"\n[14]: /images/15 \"III Призмы\"\n[15]: /images/16 \n\n\n![][]",
-			"file": "Список иллюстраций.mdown",
-			"file_size": 970,
-			"file_write_time": 131267148124802545,
-			"settings":
-			{
-				"buffer_size": 654,
 				"line_ending": "Windows"
 			}
 		}
@@ -877,10 +848,30 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 288.0,
-		"last_filter": "ssmd",
+		"height": 392.0,
+		"last_filter": "git",
 		"selected_items":
 		[
+			[
+				"git",
+				"Git: Add All"
+			],
+			[
+				"ma",
+				"MarkdownEditing: Markdown Lint"
+			],
+			[
+				"ssm",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssba",
+				"Set Syntax: Batch File"
+			],
 			[
 				"ssmd",
 				"Set Syntax: Markdown GFM"
@@ -918,16 +909,8 @@
 				"View: Toggle Open Files in Side Bar"
 			],
 			[
-				"ssm",
-				"Set Syntax: Markdown GFM"
-			],
-			[
 				"markdownEditing",
 				"MarkdownEditing: Markdown Lint"
-			],
-			[
-				"ma",
-				"MarkdownEditing: Switch List Bullet Type"
 			],
 			[
 				"mni",
@@ -1018,10 +1001,6 @@
 				"Build With: C++ - Compile"
 			],
 			[
-				"ssba",
-				"Set Syntax: Batch File"
-			],
-			[
 				"bu",
 				"Build With: C++ - Run"
 			],
@@ -1052,10 +1031,6 @@
 			[
 				"pasc",
 				"Package Control: Install Package"
-			],
-			[
-				"ssh",
-				"Set Syntax: HTML"
 			],
 			[
 				"r",
@@ -1190,10 +1165,6 @@
 				"Word Wrap: Toggle"
 			],
 			[
-				"git",
-				"Git: Init"
-			],
-			[
 				"vs",
 				"View: Toggle Status Bar"
 			],
@@ -1314,7 +1285,7 @@
 				"Package Control: List Packages"
 			]
 		],
-		"width": 432.0
+		"width": 512.0
 	},
 	"console":
 	{
@@ -1340,24 +1311,29 @@
 	},
 	"expanded_folders":
 	[
-		"/C/progp/Проекты/ТСИ",
-		"/C/progp/Проекты/ТСИ/images"
+		"/C/progp/Проекты/ТСИ"
 	],
 	"file_history":
 	[
+		"/C/progp/Проекты/ТСИ/Конспект.mdown",
+		"/C/progp/Проекты/ТСИ/.gitignore",
+		"/C/progp/Проекты/ТСИ/mkdocs.yml",
+		"/C/progp/Проекты/ТСИ/mathjaxhelper.js",
+		"/C/progp/Проекты/ТСИ/Список иллюстраций.mdown",
+		"/E/Dmitry/Documents/NOTES",
+		"/C/progp/Проекты/ТСИ/images/rename.bat",
+		"/C/progp/Проекты/ТСИ/images/2j/rename.bat",
+		"/C/progp/Проекты/ТСИ/rename.bat",
 		"/C/progp/Проекты/ТСИ/От Веры 21.11.txt",
 		"/C/progp/Проекты/ТСИ/От Веры 21.12.txt",
-		"/E/Dmitry/Documents/NOTES",
 		"/C/Users/Dmitry/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
 		"/C/Users/Dmitry/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/README.md",
 		"/C/Users/Dmitry/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings",
 		"/C/progp/Проекты/ТСИ/ИТ темы.txt",
 		"/C/progp/Проекты/ТСИ/ИТ исходно, 3-38 тем.txt",
-		"/C/progp/Проекты/ТСИ/Список иллюстраций.mdown",
 		"/E/Dmitry/Desktop/excel.html",
 		"/E/Torrents/Программы/All My Movies v7.9 build 1420 Final Ml_Rus/Readme.txt",
 		"/E/Dmitry/Documents/Характеристики накопителя 80 гб для продажи.txt",
-		"/C/progp/Проекты/ТСИ/Конспект.mdown",
 		"/E/Torrents/CCleaner Retail v5.25.5902 (13 Dec 2016)/CCleaner Professional Edition v5.25.5902 Retail/Лечение.txt",
 		"/E/Torrents/CCleaner Retail v5.25.5902 (13 Dec 2016)/CCleaner Professional Edition v5.25.5902 Retail/Serial.txt",
 		"/C/Windows/System32/drivers/etc/hosts",
@@ -1466,13 +1442,7 @@
 		"/J/Documents/links/AD/58 групп студентов через запятую 2016 год.txt",
 		"/J/Documents/links/bat/hosts",
 		"/J/g/229282_24_Сидорова/Сидорова.Ю ОП 228.2/Сидорова.Ю программа на С.cpp",
-		"/J/g/229282_18/ОП/ConsoleApplication1.cpp",
-		"/C/Windows/Logs/CBS/CBS.log",
-		"/J/g/229282_18/ОП/Вывод-Сборка.txt",
-		"/J/Documents/links/AD/student_paswd/usrpswd_2016_Z.txt",
-		"/J/Documents/AD/скрипты/1-очистка папок преподавателей/си/users/addusers.txt",
-		"/J/Documents/AD/скрипты/1-очистка папок преподавателей/си/users/addgroup.txt",
-		"/J/Documents/AD/скрипты/1-очистка папок преподавателей/си/users/pswd.txt"
+		"/J/g/229282_18/ОП/ConsoleApplication1.cpp"
 	],
 	"find":
 	{
@@ -1491,6 +1461,44 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			" - ",
+			"\\+ ",
+			"+ ",
+			"- ",
+			"-",
+			"a",
+			"+ ",
+			"+",
+			" \\n",
+			"][",
+			"><",
+			".jpg",
+			": ",
+			"print",
+			"matrix",
+			"focus",
+			"matrix",
+			"risograph",
+			"grip",
+			"color",
+			"laser",
+			"parallel-to-serial",
+			"consist-cyclic\nparallel-to-serial",
+			"p",
+			"drop",
+			"bubble",
+			"jet",
+			"unit",
+			"printer",
+			"print",
+			"scaner",
+			".jpg",
+			".*\\\"(.*)\\\"\\n",
+			"!\\[([^]]+)\\].*",
+			"![",
+			"!\\[([^]]+)\\].*",
+			"![",
+			"Трафарет копируемого изображения",
 			"]",
 			"!\\[",
 			"![",
@@ -1580,45 +1588,7 @@
 			"'1окт'!C32",
 			"2:AF",
 			"3:AF",
-			"AF",
-			"т'!",
-			"K2",
-			"C32",
-			"СУММ",
-			"ЕСЛИ",
-			"K20",
-			"(\\d*)\\t(\\d*)",
-			"3\t7",
-			"(\\d*)\\t(\\d*)",
-			"\\d*\\t\\d*",
-			"$D$",
-			"Sub Флажок(\\d*)_Щелчок\\(\\)\\n\\nEnd Sub",
-			"$D$",
-			".Select",
-			"\n//",
-			"x",
-			"cin",
-			" << ",
-			"cout << ",
-			"$",
-			"{",
-			"☐",
-			",",
-			"{r}",
-			"{2}",
-			".Select\n    ActiveCell",
-			"Сумма к выдаче",
-			"&",
-			"[$?-ru-RU]",
-			"* #,##0.00",
-			"  ",
-			"\t",
-			".",
-			"( .)\\.?\\n",
-			"( .).+( .).+\\n",
-			"Беловеж",
-			" << , N;",
-			" << ;"
+			"AF"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1626,6 +1596,10 @@
 		"regex": true,
 		"replace_history":
 		[
+			" — ",
+			"\\n",
+			"\\1\\n",
+			"\\1",
 			"",
 			"\\1 — ",
 			"\\1 \\2",
@@ -1749,11 +1723,7 @@
 			"+",
 			"f(x",
 			"→",
-			" ",
-			"",
-			"[i]\\1[/i]",
-			"[b]\\1[/b]\\n",
-			"[b]\\1[/b]"
+			" "
 		],
 		"reverse": false,
 		"show_context": true,
@@ -1764,127 +1734,37 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "Конспект.mdown",
+					"file": "README.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 42593,
+						"buffer_size": 45980,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								287,
-								287
+								39973,
+								39973
 							]
 						],
 						"settings":
 						{
 							"auto_complete": false,
 							"color_scheme": "Packages/User/Color Highlighter/themes/MarkdownEditor-Dark (SL).tmTheme",
-							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
-							"translate_tabs_to_spaces": false,
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1202,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"default_dir": "C:\\progp\\Проекты\\ТСИ",
 							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1101,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								703,
-								726
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"color_scheme": "Packages/User/Color Highlighter/themes/MarkdownEditor-Dark (SL).tmTheme",
-							"default_dir": "C:\\progp\\Проекты\\ТСИ",
-							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 24815.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "Список иллюстраций.mdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 654,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								648,
-								648
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -1928,6 +1808,10 @@
 	"output.find_results":
 	{
 		"height": 100.0
+	},
+	"output.git":
+	{
+		"height": 118.0
 	},
 	"output.mde":
 	{
@@ -1986,7 +1870,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 228.0,
 	"status_bar_visible": true,
 	"template_settings":
